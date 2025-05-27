@@ -25,7 +25,6 @@ The goal is to estimate:
 
 - `Rapport_SNA.pdf`: full mathematical report (in French),
 - `notebook.ipynb`: all experiments and results in Python,
-- `photos/`: figures generated for the report,
 - `requirements.txt`: Python dependencies.
 
 ## ⚙️ Installation
