@@ -10,7 +10,7 @@ We simulate the terminal value of portfolios composed of European options, where
 
 The goal is to estimate:
 - Probabilities of rare events,
-- Quantiles of the distribution of the porfolios value (e.g. 99.99999% quantile).
+- Quantiles of the distribution of the porfolios value (e.g. 99.99% quantile).
 
 ## 🧠 Methods Implemented
 
